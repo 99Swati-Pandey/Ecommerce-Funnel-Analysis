@@ -26,16 +26,15 @@ The analysis uses six e-commerce tables:
 
 | Table       | Records |
 | ----------- | ------- |
-| Sessions    | XX,XXX  |
-| Events      | XXX,XXX |
-| Orders      | XX,XXX  |
-| Order Items | XX,XXX  |
-| Customers   | XX,XXX  |
-| Products    | X,XXX   |
+| Sessions    | 120,000 |
+| Events      | 760,958 |
+| Orders      | 33,580  |
+| Order Items | 59,163  |
+| Customers   | 20,000  |
+| Products    | 1,197   |
 
-**Total Records:** XXX,XXX+
+**Total Records:** 994,898
 
-> Replace the values above with the actual row counts from your dataset.
 
 ---
 
@@ -216,9 +215,8 @@ The project includes a 4-page interactive dashboard:
 
 ---
 
-## 📸 Dashboard Screenshots
+##  Dashboard Screenshots
 
-Add screenshots here:
 
 ### Executive Summary
 
