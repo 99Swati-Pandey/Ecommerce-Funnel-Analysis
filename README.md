@@ -35,7 +35,6 @@ The analysis uses six e-commerce tables:
 
 **Total Records:** 994,898
 
-
 ---
 
 ##  Data Model
