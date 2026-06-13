@@ -274,8 +274,7 @@ Ecommerce-Funnel-Analysis/
 │   ├── root_cause.sql
 │
 ├── views/
-│   ├── session_funnel_base.sql
-│   └── session_behavior_base.sql
+│   ├── 01_create_view.sql
 │
 ├── dashboard/
 │   └── Ecommerce_Funnel_Dashboard.pbix
